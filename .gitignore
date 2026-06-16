@@ -47,8 +47,6 @@ exp*/
 *.db
 *.csv
 
-# Validation outputs
-validation/
 
 # Detection outputs
 detections/

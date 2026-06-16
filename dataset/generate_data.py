@@ -1,7 +1,6 @@
 """
 Synthetic License Plate Dataset Generator  (v2.0)
 ==================================================
-তিন ধরনের Indian license plate image তৈরি করে:
 
   Type 1 → Single-line standard plates  (34,000 images)
             e.g. "WB04F7728" — একটা strip-এ সব
@@ -11,8 +10,8 @@ Synthetic License Plate Dataset Generator  (v2.0)
             e.g. "22BH2345AA" — একটা strip-এ সব
 
 Background:
-  Yellow (হলুদ)  → 70%  commercial / HSRP
-  White  (সাদা)  → 30%  private / BH-series
+  Yellow   → 70%  commercial / HSRP
+  White   → 30%  private / BH-series
 
 Output structure:
   dataset/

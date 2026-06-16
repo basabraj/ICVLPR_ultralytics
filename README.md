@@ -7,7 +7,7 @@
 <img width="1600" height="819" alt="WhatsApp Image 2026-06-09 at 3 43 02 PM" src="https://github.com/user-attachments/assets/45f559f5-72b8-4b90-8b1f-db2158d4e370" />
 
 
-#ICVLPR — Indian Commercial Vehicle Licence Plate Recognition
+**ICVLPR — Indian Commercial Vehicle Licence Plate Recognition**
 
 An Automatic Number Plate Recognition (ANPR) system built for Indian vehicles. It reads an RTSP camera stream, detects licence plates with YOLOv8, reads them with EasyOCR, validates them against the full Indian RTO database, and serves a live web dashboard.
 

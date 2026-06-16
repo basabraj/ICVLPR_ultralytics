@@ -1,0 +1,72 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+yoloenv/
+venv/
+env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights & checkpoints
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.engine
+*.weights
+models/best_model.pth
+models/exp.pt
+models/finetuned_model.pth
+models/last_model.pth
+
+# Dataset & large files
+dataset/EMNIST*.zip
+dataset/train_1/
+dataset/val_1/
+*.zip
+*.tar.gz
+*.tar
+
+# YOLO / Ultralytics outputs
+runs/
+exp*/
+
+# Database & logs
+*.db
+*.csv
+
+# Validation outputs
+validation/
+
+# Images & detection outputs
+images/
+detections/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+.env.*
+
+# Compiled assets
+*.log

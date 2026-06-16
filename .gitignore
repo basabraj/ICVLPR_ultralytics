@@ -20,16 +20,10 @@ env/
 .ipynb_checkpoints/
 
 # Model weights & checkpoints
-*.pt
-*.pth
 *.onnx
 *.tflite
 *.engine
 *.weights
-models/best_model.pth
-models/exp.pt
-models/finetuned_model.pth
-models/last_model.pth
 
 # Dataset & large files
 dataset/EMNIST*.zip

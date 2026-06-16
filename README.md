@@ -82,6 +82,7 @@ raw OCR text
 ### Install dependencies
 
 ```bash
+cd /home/pi/Desktop/ICVLPR_ultralytics
 python3 -m venv yoloenv
 source yoloenv/bin/activate
 pip install -r requirements.txt

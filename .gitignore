@@ -50,8 +50,7 @@ exp*/
 # Validation outputs
 validation/
 
-# Images & detection outputs
-images/
+# Detection outputs
 detections/
 
 # OS

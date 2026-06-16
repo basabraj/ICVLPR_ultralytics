@@ -44,7 +44,7 @@ ICLPR_ultralytics/
 │   ├── exp.pt          # YOLOv8 plate-detection model
 │   └── finetuned_model.pth  # Fine-tuned EasyOCR recogniser
 ├── validation/
-│   └── RTO_CODE.xlsx   # Full Indian RTO database
+│   └── RTO_CODE.xlsx   # Full Indian Commercial Vehicle RTO database
 ├── web/static/         # Dashboard HTML/CSS/JS
 └── anpr.db             # SQLite database (detections + verified plates)
 ```
